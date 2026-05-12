@@ -16,11 +16,11 @@
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
-                <li><a href="calculator.html">Waste Calculator</a></li>
+                <li><a href="calculator.php">Waste Calculator</a></li>
                 <li><a href="schedule.php">Schedule Waste</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#blog">Blog</a></li>
-                <li><a href="quiz.html">Quiz</a></li>
+                <li><a href="quiz.php">Quiz</a></li>
                 <li><a href="#contact">Contact</a></li>
                 <li><a href="login.php">Login</a></li>
                 <li><a href="my_pickups.php">My Pickups</a></li> 
@@ -104,7 +104,7 @@
             </div>
         </section>
 
-        <section class="gallery" data-aos="fade-up">
+       <section id="blog" class="gallery" data-aos="fade-up">
             <h2>Solutions at Work</h2>
             <p>Recycling and composting are transforming waste worldwide.</p>
             <div class="grid">
