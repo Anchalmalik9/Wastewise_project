@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+
+  wastewise:
+
+    build: .
+
+    ports:
+      - "8081:80"
